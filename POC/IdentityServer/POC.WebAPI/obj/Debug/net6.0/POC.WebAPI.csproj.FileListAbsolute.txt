@@ -1,0 +1,7 @@
+C:\Users\HibaRizk\Desktop\SIREN\LAF\POC\IdentityServer\POC.WebAPI\obj\Debug\net6.0\POC.WebAPI.csproj.AssemblyReference.cache
+C:\Users\HibaRizk\Desktop\SIREN\LAF\POC\IdentityServer\POC.WebAPI\obj\Debug\net6.0\POC.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HibaRizk\Desktop\SIREN\LAF\POC\IdentityServer\POC.WebAPI\obj\Debug\net6.0\POC.WebAPI.AssemblyInfoInputs.cache
+C:\Users\HibaRizk\Desktop\SIREN\LAF\POC\IdentityServer\POC.WebAPI\obj\Debug\net6.0\POC.WebAPI.AssemblyInfo.cs
+C:\Users\HibaRizk\Desktop\SIREN\LAF\POC\IdentityServer\POC.WebAPI\obj\Debug\net6.0\POC.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\HibaRizk\Desktop\SIREN\LAF\POC\IdentityServer\POC.WebAPI\obj\Debug\net6.0\POC.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HibaRizk\Desktop\SIREN\LAF\POC\IdentityServer\POC.WebAPI\obj\Debug\net6.0\POC.WebAPI.MvcApplicationPartsAssemblyInfo.cache
